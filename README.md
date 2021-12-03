@@ -1,2 +1,2 @@
-# randompicturePC
+# 网页随机图
 网站随机图片电脑端
